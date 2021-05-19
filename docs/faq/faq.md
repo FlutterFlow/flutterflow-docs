@@ -3,9 +3,6 @@
 
 ## Subscriptions
 
-> Which plan should I choose? What’s the difference between plans?[a]
-
-
 > How do I purchase a subscription?
 
 To purchase a FlutterFlow subscription, please follow these steps:

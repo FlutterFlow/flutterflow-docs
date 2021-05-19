@@ -1,8 +1,8 @@
 {
   "hosting": {
+    "site": "flutterflow-docs",
     "public": "docs",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
-    "target": "docs",
     "rewrites": [
       {
         "source": "**",
