@@ -1,4 +1,4 @@
-- [Welcome to FlutterFlow](README.md)
+- [Welcome to FlutterFlow](welcome.md)
 - [Quickstart Guide]()
   - [1. Intro to FlutterFlow](quickstart/intro.md)
   - [2. Building an Art Gallery App (FlutterMet)](quickstart/firstapp.md)

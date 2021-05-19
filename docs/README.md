@@ -1,8 +1,17 @@
-# Welcome to FlutterFlow!
+# Welcome to FlutterFlow Docs!
 
+To view the docs, visit [docs.flutterflow.io](http://docs.flutterflow.io)
 
-We're so excited to have you onboard! FlutterFlow is a super easy way to build cross-platform apps. Take a look at the demo yourself!
+To view the FAQ, visit [flutterflow.io/faq](http://docs.flutterflow.io)
 
-<iframe width="900" height="600" src="https://www.youtube.com/embed/S_Dwqhgpiik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Contributions
 
-We have developed a series of videos to get you started. We hope you enjoy our platform, and please let us know if you have any questions!
+Feel free to make suggestions and improve the FlutterFlow docs. We will reward contributors with account credits upon landing their PRs!
+
+We are looking to expand the written portion of our docs to include step-by-step guides, in addition to the already available video tutorials.
+
+To contact us directly, email support@flutterflow.io and we'll try to get back to you! Thank you for being a part of the FlutterFlow journey.
+
+## License
+
+The FlutterFlow Docs repository is made using Docsify and is under the MIT License.
