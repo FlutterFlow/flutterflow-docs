@@ -1,12 +1,18 @@
 - [Welcome to FlutterFlow](welcome.md)
-- [Quickstart Guide]()
+- Frequently Asked Questions
+  - [Subscriptions](faq/subscriptions.md)
+  - [Payments / Billing](faq/payments.md)
+  - [Account](faq/account.md)
+  - [Privacy & Terms of Service](faq/privacy.md)
+  - [Product and Features](faq/product.md)
+  - [Contact](faq/contact.md)
+- Quickstart Guide
   - [1. Intro to FlutterFlow](quickstart/intro.md)
   - [2. Building an Art Gallery App (FlutterMet)](quickstart/firstapp.md)
   - [3. Custom UI Components](quickstart/uicomponents.md)
   - [4. Navigation and Nav Bars](quickstart/navigation.md)
   <!-- - [4. Templates](quickstart/templates.md) -->
   <!-- - [5. Next Steps](quickstart/nextsteps.md) -->
-- [Frequently Asked Questions](faq/faq.md)
 - ----
 - [Getting Started With Firebase](auth/intro.md)
   - [1. Setting Up Firebase Authentication](auth/setup.md)
