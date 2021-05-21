@@ -5,7 +5,13 @@
 
 > Which plan should I choose? What’s the difference between plans?
 
-Our free plan gives you access to our drag and drop app development environment as well as Firebase integration. Our paid plans offer additional features such as code downloading, Github integration, API calls, and priority support. If you aren't sure which plan is best for you, please reach out to us at support@flutterflow.io
+Our free plan gives you access to our drag and drop app development environment as well as Firebase integration, such as Authentication and Cloud Firestore. 
+
+Our standard plan offers additional features such as sample apps, sharing projects, downloading generated code, and priority support chat.
+
+Out Pro plan offers everything in our standard plan, plus GitHub integration, API calls, and pre-built components. You can try our paid plans for 30 days!
+
+If you aren't sure which plan is best for you, please reach out to us at support@flutterflow.io
 
 > How do I purchase a subscription?
 
