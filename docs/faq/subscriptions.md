@@ -3,8 +3,9 @@
 
 ## Subscriptions
 
-> Which plan should I choose? What’s the difference between plans?[a]
+> Which plan should I choose? What’s the difference between plans?
 
+Our free plan gives you access to our drag and drop app development environment as well as Firebase integration. Our paid plans offer additional features such as code downloading, Github integration, API calls, and priority support. If you aren't sure which plan is best for you, please reach out to us at support@flutterflow.io
 
 > How do I purchase a subscription?
 
