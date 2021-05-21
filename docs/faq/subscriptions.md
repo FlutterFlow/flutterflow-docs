@@ -20,7 +20,7 @@ Out *Pro plan* offers everything in our standard plan, plus:
 - API calls
 - Pre-built Components
 
-You can try our paid plans for 30 days! If you aren't sure which plan is best for you, please reach out to us at support@flutterflow.io
+You can [try our paid plans](https://flutterflow.io/pricing.html) for 30 days! If you aren't sure which plan is best for you, please reach out to us at support@flutterflow.io
 
 > How do I purchase a subscription?
 
