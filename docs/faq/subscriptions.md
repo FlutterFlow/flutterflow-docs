@@ -7,11 +7,20 @@
 
 Our free plan gives you access to our drag and drop app development environment as well as Firebase integration, such as Authentication and Cloud Firestore. 
 
-Our standard plan offers additional features such as sample apps, sharing projects, downloading generated code, and priority support chat.
+Our *standard plan* offers additional features such as:
 
-Out Pro plan offers everything in our standard plan, plus GitHub integration, API calls, and pre-built components. You can try our paid plans for 30 days!
+- Sample Apps
+- Sharing Projects
+- Download Code
+- Priority Support Chat
 
-If you aren't sure which plan is best for you, please reach out to us at support@flutterflow.io
+Out *Pro plan* offers everything in our standard plan, plus:
+
+- GitHub integration
+- API calls
+- Pre-built Components
+
+You can try our paid plans for 30 days! If you aren't sure which plan is best for you, please reach out to us at support@flutterflow.io
 
 > How do I purchase a subscription?
 
