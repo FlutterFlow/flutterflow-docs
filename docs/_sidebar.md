@@ -1,5 +1,5 @@
 - [Welcome to FlutterFlow](welcome.md)
-- Frequently Asked Questions
+- [Frequently Asked Questions](faq/faq.md)
   - [Subscriptions](faq/subscriptions.md)
   - [Payments / Billing](faq/payments.md)
   - [Account](faq/account.md)
