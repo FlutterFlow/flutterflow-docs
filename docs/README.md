@@ -1,8 +1,6 @@
 # Welcome to FlutterFlow Docs!
 
-To view the docs, visit [docs.flutterflow.io](http://docs.flutterflow.io)
-
-To view the FAQ, visit [flutterflow.io/faq](http://docs.flutterflow.io)
+[View the FAQ](https://docs.flutterflow.io/#/faq/faq)
 
 ## Contributions
 
