@@ -1,24 +1,29 @@
-# Frequently ~Asked~ _Answered_ Questions
+# Frequently Answered Questions
 ----
 
-## Privacy & Terms of Service
+## Privacy & Terms of Service Questions
 
-> Where can I view your Privacy Policy?
- 
+<details><summary>Where can I view your Privacy Policy?</summary><br/>
+
  You can review the most recent version of our Privacy Policy [here](https://flutterflow.io/pp)
+</details>
 
-> Where can I view your Terms of Service?
- 
+<details><summary>Where can I view your Terms of Service?</summary><br/>
+
  You can review the most recent version of our Terms of Service [here](https://flutterflow.io/tos)
+</details>
 
-> How do I unsubscribe from your email communications?
- 
+<details><summary>How do I unsubscribe from your email communications?</summary><br/>
+
  To unsubscribe from FlutterFlow emails, please click the “Unsubscribe” link in the footer of our emails.
+</details>
 
-> How do I request deletion of my personal data?
- 
- To request deletion of your personal data, please reach out to our support team at support@flutterflow.io
+<details><summary>How do I request deletion of my personal data?</summary><br/>
 
-> How do I request a copy of my personal data?
- 
  To request deletion of your personal data, please reach out to our support team at support@flutterflow.io
+</details>
+
+<details><summary>> How do I request a copy of my personal data?</summary><br/>
+
+ To request deletion of your personal data, please reach out to our support team at support@flutterflow.io
+</details>
