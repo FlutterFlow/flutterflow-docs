@@ -1,7 +1,7 @@
 # Frequently Answered Questions
 ----
 
-## Account Questions
+## Account
 
 <details><summary>How do I create an account?</summary><br/>
 
