@@ -3,26 +3,12 @@
 
 ## Subscriptions
 
-> Which plan should I choose? What’s the difference between plans?
-
-Our free plan gives you access to our drag and drop app development environment as well as Firebase integration, such as Authentication and Cloud Firestore. 
-
-Our *standard plan* offers additional features such as:
-
-- Sample Apps
-- Sharing Projects
-- Download Code
-- Priority Support Chat
-
-Out *Pro plan* offers everything in our standard plan, plus:
-
-- GitHub integration
-- API calls
-- Pre-built Components
-
+<details> <summary>Which plan should I choose? What’s the difference between plans?</summary>
+  
 You can [try our paid plans](https://flutterflow.io/pricing.html) by signing up for a free trial! If you aren't sure which plan is best for you, please reach out to us at support@flutterflow.io
+</details>
 
-> How do I purchase a subscription?
+<details><summary>  How do I purchase a subscription?</summary>
 
 To purchase a FlutterFlow subscription, please follow these steps:
 
@@ -30,33 +16,39 @@ To purchase a FlutterFlow subscription, please follow these steps:
   2. Enter your name, email address, and password and select “Create Account”
   3. Select “Upgrade” at the top of the screen
   4. Enter your billing and payment information
-
-> Do subscriptions renew automatically?
-
+</details>
+  
+<details> <summary>Do subscriptions renew automatically?</summary>
+  
 Yes, our subscriptions renew automatically to avoid disrupting your app development. Monthly subscriptions renew on the same day each month (typically the day you subscribed).
+</details>
 
-> Can I pause my subscription?
-
+<details> <summary>Can I pause my subscription</summary>
+  
 We do not currently offer the option to pause your subscription.
+</details>
 
-> How do I upgrade or cancel my paid subscription?
-
+<details> <summary>How do I upgrade my paid subscription?</summary>
  To upgrade your subscription, please use the following steps:
   1. After logging into your FlutterFlow account, select “Account” from the top right
   2. Under My Plan select “Manage”
   3. Select “Upgrade” under the plan you would like to upgrade to
   4. Enter your payment information
+</details>
+
+ <details> <summary>How do I cancel my paid subscription?</summary>
  To cancel your paid subscription, please use the following steps:
   1. After logging into your FlutterFlow account, select “Account” from the top right
   2. Under My Plan select “Manage”
   3. Select “Switch To Free” under the free plan
   4. Please note you will continue to have a Free account after cancelling your paid subscription
-
-> Can I transfer my subscription to another account?
-
+</details>
+ 
+   <details> <summary>Can I transfer my subscription to another account?</summary>
  We are unable to transfer a paid FlutterFlow subscription to another FlutterFlow account.
+</details>
 
-> What’s your refund policy?
-
+  <details> <summary>What’s your refund policy?</summary>
  For details on our refund policy, please visit our Terms of Service site [here](https://flutterflow.io/tos)
  For any additional details, please reach out to our support team at support@flutterflow.io
+</details>
