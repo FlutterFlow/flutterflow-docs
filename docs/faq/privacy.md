@@ -1,7 +1,7 @@
 # Frequently Answered Questions
 ----
 
-## Privacy & Terms of Service Questions
+## Privacy & Terms of Service
 
 <details><summary>Where can I view your Privacy Policy?</summary><br/>
 
