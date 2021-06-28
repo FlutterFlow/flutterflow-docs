@@ -6,6 +6,7 @@
 <details> <summary>Which plan should I choose? What’s the difference between plans?</summary>
   
 Please visit our [Pricing Page](https://flutterflow.io/pricing.html) for a full overview of our plans. If you aren't sure which plan is best for you, please reach out to us at support@flutterflow.io
+
 </details>
 
 <details><summary>  How do I purchase a subscription?</summary>
@@ -51,7 +52,7 @@ We do not currently offer the option to pause your subscription.
 </details>
 
   <details> <summary>What’s your refund policy?</summary>
- For details on our refund policy, please visit our Terms of Service site: https://flutterflow.io/tos
-  
+
+ For details on our refund policy, please visit our Terms of Service site [here](https://flutterflow.io/tos)
  For any additional details, please reach out to our support team at support@flutterflow.io
 </details>
