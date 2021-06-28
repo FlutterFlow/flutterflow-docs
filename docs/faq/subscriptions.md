@@ -5,7 +5,8 @@
 
 <details> <summary>Which plan should I choose? What’s the difference between plans?</summary>
   
-You can [try our paid plans](https://flutterflow.io/pricing.html) by signing up for a free trial! If you aren't sure which plan is best for you, please reach out to us at support@flutterflow.io
+Please visit our [Pricing Page](https://flutterflow.io/pricing.html) for a full overview of our plans. If you aren't sure which plan is best for you, please reach out to us at support@flutterflow.io
+
 </details>
 
 <details><summary>  How do I purchase a subscription?</summary>
@@ -30,6 +31,7 @@ We do not currently offer the option to pause your subscription.
 
 <details> <summary>How do I upgrade my paid subscription?</summary>
  To upgrade your subscription, please use the following steps:
+  
   1. After logging into your FlutterFlow account, select “Account” from the top right
   2. Under My Plan select “Manage”
   3. Select “Upgrade” under the plan you would like to upgrade to
@@ -38,6 +40,7 @@ We do not currently offer the option to pause your subscription.
 
  <details> <summary>How do I cancel my paid subscription?</summary>
  To cancel your paid subscription, please use the following steps:
+  
   1. After logging into your FlutterFlow account, select “Account” from the top right
   2. Under My Plan select “Manage”
   3. Select “Switch To Free” under the free plan
@@ -49,6 +52,7 @@ We do not currently offer the option to pause your subscription.
 </details>
 
   <details> <summary>What’s your refund policy?</summary>
+
  For details on our refund policy, please visit our Terms of Service site [here](https://flutterflow.io/tos)
  For any additional details, please reach out to our support team at support@flutterflow.io
 </details>
