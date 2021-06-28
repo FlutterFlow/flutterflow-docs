@@ -1,4 +1,4 @@
-# Frequently ~Asked~ _Answered_ Questions
+# Frequently Answered Questions
 ----
 
 Welcome to the FAQ! Choose any of the following sections to get your questions answered:
