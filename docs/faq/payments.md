@@ -1,20 +1,24 @@
-# Frequently ~Asked~ _Answered_ Questions
+# Frequently Answered Questions
 ----
 
-## Payments / Billing
+## Payments & Billing Questions
 
-> What payment methods do you accept?
+<details><summary>What payment methods do you accept?</summary><br/>
 
  We currently accept Visa, Mastercard, American Express, and JCB.
+</details>
 
-> When will my credit card be charged?
+<details><summary>When will my credit card be charged?</summary><br/>
 
- If you upgraded your account to a paid plan, we will charge your credit card on the same day each month. This typically will fall on the day that you originally upgraded your plan. If you received a free trial, your card will be charged on the day following the end of your trial period.         
+ If you upgraded your account to a paid plan, we will charge your credit card on the same day each month. This typically will fall on the day that you originally upgraded your plan. If you received a free trial, your card will be charged on the day following the end of your trial period.      
+</details>
 
-> Can I use a Gift Card from Amex or Visa in addition to my credit card?
+ <details><summary>Can I use a Gift Card from Amex or Visa in addition to my credit card?</summary><br/>
 
- At this time we are unable to process Gift Card payments.
+ At this time we are unable to process Gift Card payments. 
+</details>     
 
-> I used the wrong credit card. Can I change it?
+ <details><summary> I used the wrong credit card. Can I change it?</summary><br/>
 
-Unfortunately, once your subscription has been purchased we are unable to change your payment method for this month. 
+Unfortunately, once your subscription has been purchased we are unable to change your payment method for this month. You can update future payments by changing your payment details.
+</details>  
