@@ -1,7 +1,7 @@
 # Frequently Answered Questions
 ----
 
-## Payments & Billing Questions
+## Payments & Billing
 
 <details><summary>What payment methods do you accept?</summary><br/>
 
