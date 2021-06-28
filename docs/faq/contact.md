@@ -1,7 +1,7 @@
 # Frequently Answered Questions
 ----
 
-## Other Questions
+## Other
 
 <details><summary>I have a question that isn’t answered here. How can I get help?</summary><br/>
 
