@@ -1,4 +1,4 @@
-# Frequently ~Asked~ _Answered_ Questions
+# Frequently Answered Questions
 ----
 
 ## Subscriptions
