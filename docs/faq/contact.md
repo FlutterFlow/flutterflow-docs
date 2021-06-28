@@ -1,8 +1,12 @@
-# Frequently ~Asked~ _Answered_ Questions
+# Frequently Answered Questions
 ----
 
-## Other
+## Other Questions
 
-> I have a question that isn’t answered here. How can I get help?
+<details><summary>I have a question that isn’t answered here. How can I get help?</summary><br/>
 
- Please reach out to us at support@flutterflow.io
+Please reach out to us at support@flutterflow.io 
+ 
+ We're here to help!
+
+</details>
