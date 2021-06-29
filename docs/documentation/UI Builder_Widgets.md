@@ -66,7 +66,7 @@ A draw is a side menu that will appear on the left side of an application. If yo
 Once you drag a draw onto a page you will see a button that appears in the parameters tab on the right. You can edit the drawer’s content by tapping “Edit Drawer”, note: you must have the scaffold selected in order to see this option.
 
 
-![alt_text](images/image1.png "image_tooltip")
+![Drawer view in scaffold](images/endDrawerEdit.png "image_tooltip")
 
 
 
@@ -139,7 +139,7 @@ This toggle will provide a small “X” at the end of your input, a user can ta
 
 This dropdown allows you to choose what keyboard should show up by default. This is beneficial for when your textfield is suppose to capture an email instead of a standard text input, or number rather than text.
 
-![alt_text](images/image2.png "image_tooltip")
+![Dropdown values for keyboard types](images/dropdownValues.png "image_tooltip")
 
 
 
@@ -154,7 +154,7 @@ The label can also be placeholder text and will show even after a user has enter
 
 
 
-![alt_text](images/image3.png "image_tooltip")
+![Text Field options showing different label, hint and initial value options](images/textField_options.png "image_tooltip")
 
 
 
