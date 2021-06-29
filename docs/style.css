@@ -844,7 +844,8 @@ pre::after {
   color: #657b83;
 }
 input[type='search'] {
-  background: #4f4f4f;
-  border-color: #4f4f4f;
-  color: #c8c8c8;
+  background: #262D34;
+  border-color: #262D34;
+  color: #9AA6B6;
+  border-radius: 8px;
 }
