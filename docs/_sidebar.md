@@ -11,6 +11,7 @@
   - [2. Building an Art Gallery App (FlutterMet)](quickstart/firstapp.md)
   - [3. Custom UI Components](quickstart/uicomponents.md)
   - [4. Navigation and Nav Bars](quickstart/navigation.md)
+  - [5. PageViews](guides/pageview.md)
   <!-- - [4. Templates](quickstart/templates.md) -->
   <!-- - [5. Next Steps](quickstart/nextsteps.md) -->
 - ----
