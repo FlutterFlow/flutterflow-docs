@@ -1,7 +1,13 @@
 # PageView
 ---
 
-> Introduction
+> This guide was written by a member of the FlutterFlow community!
+> 
+> If you would like to contribute to docs, visit https://github.com/FlutterFlow/flutterflow-docs
+> 
+> Credits to Cynthia Peter [@CynthiaPeter](https://github.com/CynthiaPeter)
+
+### Introduction
 
 A PageView widget is a common widget that handles a scrollable list of pages. A PageView is very similar to a carousel. 
 
@@ -9,11 +15,11 @@ This is a step-by-step guide to show you how to make use of the PageView Compone
 
 The Pageview widget can be used to create onboarding pages, Instagram carousels, and custom features. There are no boundaries to what you can create with the PageView component.
 
->What you’ll need
+> What you’ll need
 
 To follow along, you’d need to [Sign-In](https://app.flutterflow.io/) to a flutterflow.io account or [create a new account](https://app.flutterflow.io/create-account).
 
->Things you can do with the Pageview component
+> Things you can do with the Pageview component
 
 * Add, delete, and style the Pageview.
 * You can change the scroll direction of a Pageview.
@@ -109,11 +115,11 @@ Finally, you have a beautiful and custom PageView.
 
 You can always learn by watching or reading through the documentation, but to make this work, it is important that you practice, play arround with components and if there is a feature you would want to be added, send a mail to support@flutterflow.io.
 
-> Next steps
+
+### Next steps
 
 Check out other guides to learn more about how to make use of components.
 
-* <!-- * [Scaffold](link to scaffold guide) -->
 * [Frequently Asked Questions](faq/faq.md)
 
 Happy building!
