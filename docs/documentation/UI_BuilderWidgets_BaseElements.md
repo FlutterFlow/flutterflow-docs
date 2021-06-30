@@ -74,3 +74,66 @@ If no label text is defined the hint text will act as a placeholder. If a label 
 ### Text Input Validation
 
 After you set the values for initial, label & hint. You have the ability to set a text field as “required” in the validation section. Toggle the “Required Field” checkbox to on, and set the text that appears if a user doesn’t fill it out.
+
+### Text Input Validation
+
+After you set the values for initial, label & hint. You have the ability to set a text field as “required” in the validation section. Toggle the “Required Field” checkbox to on, and set the text that appears if a user doesn’t fill it out.
+
+
+#### Minimum required characters
+
+You can set the amount of characters needed for a certain input to be valid, this is helpful for passwords or email addresses.
+
+
+#### Automatically Validate
+
+When this is toggled on, the input will be validated with every character change instead of after submitting the form.
+
+
+### Leading Icon
+
+You can set an icon to appear before you input -- this is beneficial to help spice up your designs or to add one more indicator of what each input refers to in a form.
+
+
+### Input Decoration Properties
+
+You may think how do I change the input style type? Well you will find that at the bottom.
+
+
+#### Input Border Type 
+
+This property will allow you to switch between an input with a bottom border, or an input with a full border where the label floats above. You can also toggle the “Filled” Property in order to give your input a background color.
+
+Note: Fill color will not show up if the “Filled” Checkbox is unchecked.
+
+You can also edit the border radius, border color and content padding of an input in this bottom section.
+
+
+# 3. Image
+
+Images allow you to upload an image from your device or set the link to an image on a network, you can also set the image as a variable from your firestore database.
+
+
+### Displaying your Image
+
+
+#### Width & Height
+
+You are able to set a fixed width and height by setting both properties by exact pixels; this typically works well when the image won’t change or when whichever image is fed into this element will be the same size.
+
+You can also set the image Width & Height as % which will be responsive to layout but could display the image differently depending on the screen size.
+
+
+#### Border Radius
+
+You can set the border radius of your image here, if you want a circle image you can also use the “Circle Image” widget as well.
+
+
+#### Box Fit
+
+You are able to set a fixed width and height by setting both properties by exact pixels; this typically works well when the image won’t change or when whichever image is fed into this element will be the same size.
+
+
+![Boxfit Examples for images](images/boxFit_examples.png "image_tooltip")
+
+
