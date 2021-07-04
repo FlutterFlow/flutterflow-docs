@@ -406,6 +406,7 @@ body.close .sidebar {
 }
 body.close .sidebar-toggle {
   width: auto;
+  left: auto;
 }
 body.close .content {
   left: 0;
