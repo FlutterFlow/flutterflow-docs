@@ -50,7 +50,7 @@ Here, it will tell you to upload your configuration files
 
 Under "Android Configuration," select the google-services.json you just downloaded
 
-Under "IOS Configuration," selects the GoogleService-Info.plist you just downloaded
+Under "IOS Configuration," select the GoogleService-Info.plist you just downloaded
 screenshot
 
 Congratulations, you just set up Firebase in your FlutterFlow project!
