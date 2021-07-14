@@ -285,7 +285,7 @@ main.hidden {
   padding: 10px;
   position: absolute;
   bottom: 0;
-  left: 0;
+  left: 300px;
   text-align: center;
   transition: opacity 0.3s;
   width: 284px;
@@ -406,6 +406,7 @@ body.close .sidebar {
 }
 body.close .sidebar-toggle {
   width: auto;
+  left: auto;
 }
 body.close .content {
   left: 0;
