@@ -116,5 +116,4 @@ This lets you choose the padding around the input text (not around the TextField
 
 Check out other guides to learn more about how to make use of components.
 
-* [Frequently Asked Questions](./faq/faq.md)
 * [Pageview Guide](pageview.md)
